@@ -1,0 +1,10 @@
+.tag{
+  font-size: 15px;
+}
+.addcomment{
+  width: 100%;
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  justify-content: center;
+}
